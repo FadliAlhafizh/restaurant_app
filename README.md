@@ -1,6 +1,6 @@
 # restaurant_app
 
-A new Flutter project.
+Dicoding Fundamental Flutter: Submission 1
 
 ## Getting Started
 
